@@ -5,7 +5,7 @@ This is my first game! Warehouse Wreckege is a first-person destruction game, de
 https://github.com/user-attachments/assets/51063fed-2b14-497d-9575-dbd8fb015fff
 
 ## Build with
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-blue?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-blue?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## How to download and play
 1. Download the game on my <a href="https://thiagoianuch.itch.io/warehouse-wreckage">itch.io</a> **(Windows only)**
