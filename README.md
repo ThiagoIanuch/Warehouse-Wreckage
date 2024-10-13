@@ -1,6 +1,6 @@
 ## Warehouse Wreckage
 
-This is my first game! Warehouse Wreckege is a first-person destruction game, developed in Unreal Engine 5 following part 1/5 of the course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" by Ben Tristem and GameDev.tv Team.
+This is my first game! Warehouse Wreckege is a first-person destruction game, developed in Unreal Engine 5 following part 1/5 of the course "<a href="https://www.udemy.com/course/unrealcourse/">Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games</a>" by Ben Tristem and GameDev.tv Team.
 
 https://github.com/user-attachments/assets/51063fed-2b14-497d-9575-dbd8fb015fff
 
